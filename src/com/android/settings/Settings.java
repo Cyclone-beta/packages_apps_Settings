@@ -539,4 +539,9 @@ public class Settings extends SettingsActivity {
      * Activity for WirelessDebuggingActivity
      */
     public static class WirelessDebuggingActivity extends SettingsActivity { /* empty */ }
+
+    /**
+     * Cyclone Additions.
+     */
+    public static class CycloneSettingsActivity extends SettingsActivity {}
 }

@@ -61,4 +61,8 @@
     <string name="tint_background_title">Tint Background</string>
     <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
 
+    <!-- Cyclone -->
+    <string name="cyclone_settings_title">Cyclone</string>
+    <string name="cyclone_settings_summary">Customization Hub</string>
+
 </resources>
