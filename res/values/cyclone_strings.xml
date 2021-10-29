@@ -26,5 +26,8 @@
     <string name="maintainer">Maintainer</string>
     <string name="maintainer_name">Roxor-007</string>
     <string name="maintainer_telegram_username">https://t.me/project_cyclone</string>
+
+    <!-- Platform version -->
+    <string name="platform_version">Platform version</string>
     
 </resources>
